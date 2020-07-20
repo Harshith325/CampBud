@@ -1,0 +1,13 @@
+.card img{
+	width:100%;
+}
+
+.card .caption{
+	padding:9px;
+}
+#comments{
+	background-color:#f0f2f9;
+}
+.delete{
+	display:inline;
+}
